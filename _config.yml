@@ -1,0 +1,28 @@
+name: agoh
+favicon: null
+layout_spectrum: 0.22293870197609067
+typography_spectrum: 0.6748803763184696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8835019923280925
+  lightness: 0.3680544891394675
+  saturation: 0.4776721994858235
+  rhythmicContrast: 0.4045074824243784
+purpose: []
